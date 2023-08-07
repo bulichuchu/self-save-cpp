@@ -1,0 +1,17 @@
+math fu 66 2023 7 21 lazy 1 1
+english wang 88 2023 5 21 over_slept 1 1
+chinese li 99 2023 4 21 lazy 1 1
+physics wang 78 2023 6 15 absent 2 1
+chemistry chen 90 2023 5 12 lazy 1 1
+history zhang 85 2023 4 25 over_slept 1 1
+biology xu 92 2023 6 1 lazy 1 1
+geography yang 77 2023 7 7 absent 1 1
+math fu 70 2023 7 28 lazy 2 2
+chinese li 80 2023 6 5 absent 2 2
+physics wang 85 2023 6 2 lazy 3 2
+history zhang 93 2023 5 15 over_slept 2 2
+biology xu 88 2023 8 3 lazy 2 2
+math fu 78 2023 8 15 over_slept 3 3
+english ji 75 2023 7 3 lazy 1 2
+chemistry chen 87 2023 8 5 absent 2 2
+geography yang 82 2023 8 8 lazy 2 2 0

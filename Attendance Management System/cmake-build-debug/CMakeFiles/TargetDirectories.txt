@@ -1,0 +1,3 @@
+D:/CLionProjects/Attendance Management System/cmake-build-debug/CMakeFiles/Attendance_Management_System.dir
+D:/CLionProjects/Attendance Management System/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Attendance Management System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
