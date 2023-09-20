@@ -1,0 +1,3 @@
+D:/CLionProjects/string_test/cmake-build-debug/CMakeFiles/string_test.dir
+D:/CLionProjects/string_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/string_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
